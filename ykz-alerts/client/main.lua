@@ -64,10 +64,10 @@ end)
 ^7--------------------------------------------------------------
 
 
-^1[^2YKZ-AC^1]    [Verificado!]
+^1[^2YKZ-Alerts^1]    [Verificado!]
   ]])
   print("\n^7----------------------------------------------------------------")
-  print("\n^1[^2YKZ-AC^1] |^2 Esta Funcionando PERFECTAMENTE UNETE A NUSTRO DISCORD https://discord.gg/6T3PMBuDdA :)")
+  print("\n^1[^2YKZ-Alerts^1] |^2 Esta Funcionando PERFECTAMENTE UNETE A NUSTRO DISCORD https://discord.gg/6T3PMBuDdA :)")
             print("\n^1---------------------------------------------------------^0")
             print("\n")
 end
