@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Outlaw Alert'
+description 'ykz-alerts'
 
 version '1.1.0'
 
